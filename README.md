@@ -1,1 +1,1 @@
-# badge-test
+This is a test line to unlock GitHub achievements.
